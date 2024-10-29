@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Nauã Messias 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/sujeitoprogramador](https://www.instagram.com/nau_messias/?next=%2F))
 
 ## Tecnologias que eu uso no meu dia
 
