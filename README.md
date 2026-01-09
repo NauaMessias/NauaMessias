@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Nauã Da Silva Rodrigues 🖐️
 
-[![Instagram] (https://www.instagram.com/rodriguesnauadasilva/)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
